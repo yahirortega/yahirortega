@@ -1,7 +1,7 @@
 <!-- Encabezado con fondo animado y estilo estético -->
-<h1 align="center">🌟 ¡Hola, soy Yahir Ortega! 🌟</h1>
+<h1 align="center"> 👾¡Hola, soy Yahir Ortega!👾 </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Desarrollador+Front-end;Amante+de+la+tecnología;Siempre+aprendiendo+y+creando" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines;Amante+de+la+tecnología;Siempre+aprendiendo+y+creando" alt="Typing SVG" />
 </p>
 
 ---
@@ -24,14 +24,7 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
 
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yahirortegaLavalle&show_icons=true&theme=radical" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahirortega&layout=compact&theme=radical" />
-</div>
-
----
 
 
 ### 📫 ¿Dónde encontrarme?
@@ -45,5 +38,5 @@
 ---
 
 <p align="center">
-  ✨ *Gracias por visitar mi perfil* ✨
+  🐊 *Gracias por visitar mi perfil* 🐊
 </p>
