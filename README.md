@@ -1,6 +1,6 @@
-<!-- Banner con fondo animado -->
+<!-- Banner animado funcionando -->
 <p align="center">
-  <img src="https://i.imgur.com/V5VdftF.gif" width="100%" alt="Banner animado">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Banner animado">
 </p>
 
 <h1 align="center"> 👾¡Hola, soy Yahir Ortega!👾 </h1>
