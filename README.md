@@ -1,6 +1,6 @@
-<!-- Banner con imagen chida -->
+<!-- Banner con imagen más chica -->
 <p align="center">
-  <img src="https://i.pinimg.com/564x/73/ae/95/73ae954eca418ab0c711b1e474abdabd.jpg" width="100%" alt="Banner cool de programación">
+  <img src="https://i.pinimg.com/564x/73/ae/95/73ae954eca418ab0c711b1e474abdabd.jpg" width="70%" alt="Banner cool de programación">
 </p>
 
 <h1 align="center"> 👾¡Hola, soy Yahir Ortega!👾 </h1>
